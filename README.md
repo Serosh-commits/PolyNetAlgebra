@@ -2,7 +2,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Serosh-commits/PolyNetAlgebra/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/yourusername/PolyNetAlgebra)](https://github.com/Serosh-commits/PolyNetAlgebra)
-HIS REPO IS NOT A TUTORIAL TYPE OF SHIT ITS FOR THOSE WHO LOVES PROGRAMMING AND TRY TO DECODE COMPLEX STUFF 
+THIS REPO IS NOT A TUTORIAL TYPE OF SHIT ITS FOR THOSE WHO LOVES PROGRAMMING AND TRY TO DECODE COMPLEX STUFF 
 FOR EACH SUBTOPIC THERE WILL BE A CODE RELATED TO IT TRY TO UNDERSTAND THE CODE AND MAKE UR BRAIN STORM WITH
 COOL TECH TOPICS I AM ALSO A CURIOUS LEARNER WHO LIKES TO CODE JUST WANT TO LEARN A LOT EVERY CODE I WILL PRACTICE I WILL COMMIT HERE EVERY DEEP CODES I DO HAVE FUN!!!
 **Forge the future of networked systems with C++!**  
